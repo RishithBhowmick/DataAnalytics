@@ -1,6 +1,6 @@
 # Startup Success Analysis
 ## README
-Data Analytics Project
+Data Analytics Project  
 Rishith Bhowmick, Soundarya Ganesh, Surabhi Vedagiri, Kalp Aghada
 
 ---
