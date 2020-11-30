@@ -27,6 +27,7 @@ In each of these notebooks, data has been cleaned and appropriate features and p
 ### Steps to Reproduce Project
 
 To execute the project. run each of these files in this order with Jupyter.
+Cells can either be run one by one, or all be executed.
 
 * EDA.ipynb
 * Data Cleaning_and_Logistic Regression.ipynb
